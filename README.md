@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="200"/>
+</div>
+<div id="seconder" align="center">
+<img src="https://komarev.com/ghpvc/?username=InfernalBeard&style=flat-square&color=red" alt=""/>
+</div>
+
 Egorov Andrey
 ==================================
 Junior Java Developer
