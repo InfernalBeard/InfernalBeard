@@ -7,8 +7,24 @@
 
 Egorov Andrey
 ==================================
-Junior Java Developer
+Java Developer
 ----------------------------------
+### Skills
+
+- Project Management: Agile, Scrum, project planning, budgeting, team management
+- Object-oriented programming (OOP)
+- Programming Languages: Java
+- JSON and REST API
+- Spring Framework
+- Apache Maven
+- Git and GitHub
+- SQL
+- Linux
+- Docker
+- Test-driven development (TDD) and Unit testing (JUnit)
+- Refactoring code
+- Atlassian Confluence and Jira
+- Intellij IDEA
 
 Учусь в [Нетологии](https://netology.ru)
 
