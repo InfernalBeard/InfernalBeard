@@ -9,6 +9,7 @@ Egorov Andrey
 ==================================
 Java Developer
 ----------------------------------
+
 ### Skills
 
 - Project Management: Agile, Scrum, project planning, budgeting, team management
