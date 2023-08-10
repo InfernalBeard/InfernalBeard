@@ -33,13 +33,11 @@ My ultimate goal is to become a software developer and use my skills and experie
 
 ### Education
 
-I have completed a variety of online courses related to programming, software development, and database management. These include:
-
 Java:
 
 Учусь в [Нетологии](https://netology.ru)
-
-<!-- Other programming languages and technologies:
+<!-- I have completed a variety of online courses related to programming, software development, and database management. These include:
+Other programming languages and technologies:
 
 ### Developer experience
 ### 💻 Технологии и инструменты, которыми я пользуюсь в разработке:
@@ -86,6 +84,15 @@ Java:
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/IamAndreyEgorov)
 [<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:aiegorovceo@yandex.ru)
+
+<!-- ### Socials
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/thisplace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+	<a href="https://www.twitter.com/thisplace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+ 
+### Badges
+ -->
 
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InfernalBeard&theme=highcontrast&border_radius=4.6&locale=ru)](https://git.io/streak-stats)
