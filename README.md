@@ -12,7 +12,7 @@ Java Developer
 
 ### Skills
 
-- Project Management: Agile, Scrum, project planning, budgeting, team management
+- Project Management: Project planning, budgeting, team management
 - Object-oriented programming (OOP)
 - Programming Languages: Java
 - JSON and REST API
