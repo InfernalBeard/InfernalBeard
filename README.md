@@ -86,7 +86,7 @@ Other programming languages and technologies:
 ### Contact me
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/IamAndreyEgorov)
-[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:aiegorovceo@yandex.ru)
+ <!--[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:aiegorovceo@yandex.ru)
 
 <!-- ### Socials
 
