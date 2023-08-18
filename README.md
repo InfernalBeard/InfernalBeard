@@ -24,10 +24,10 @@ Java Developer
 - Docker
 - Test-driven development (TDD) and Unit testing (JUnit)
 - Refactoring code
-- Atlassian Confluence and Jira
 - Intellij IDEA
 - Data Structures & Algorithms
 <!-- 
+- Atlassian Confluence and Jira
 ### Goals
 
 My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions.
