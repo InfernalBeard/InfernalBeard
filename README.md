@@ -37,8 +37,7 @@ My ultimate goal is to become a software developer and use my skills and experie
 Java:
 
 Учусь в [Нетологии](https://netology.ru)
-<!-- I have completed a variety of online courses related to programming, software development, and database management. These include:
-Other programming languages and technologies:
+<!-- 
 
 ### Developer experience
 ### 💻 Технологии и инструменты, которыми я пользуюсь в разработке:
