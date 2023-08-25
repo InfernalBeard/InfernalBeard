@@ -28,10 +28,10 @@ Java Developer
 - Data Structures & Algorithms
 <!-- 
 - Atlassian Confluence and Jira
+ -->
 ### Goals
 
 My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions.
- -->
 
 ### Education
 
