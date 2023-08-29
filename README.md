@@ -61,6 +61,7 @@ Java:
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
  </div>
 
+
 ---
 ## Мои проекты:
 #### Дипломный проект по курсу JAVA - Облачное хранилище - [CloudStorage]
