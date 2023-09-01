@@ -26,6 +26,7 @@ Java Developer
 - Refactoring code
 - Intellij IDEA
 - Data Structures & Algorithms
+
 <!-- 
 - Atlassian Confluence and Jira
  -->
