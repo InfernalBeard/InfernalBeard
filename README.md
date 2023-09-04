@@ -95,7 +95,6 @@ Java:
 <p align="left">
 	<a href="https://www.linkedin.com/in/thisplace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
  -->
-
 ### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InfernalBeard&theme=highcontrast&border_radius=4.6&locale=ru)](https://git.io/streak-stats)
 
