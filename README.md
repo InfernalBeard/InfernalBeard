@@ -89,8 +89,7 @@ Java:
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/IamAndreyEgorov)
  <!--[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:aiegorovceo@yandex.ru)
-
-<!-- ### Socials
+### Socials
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/thisplace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
