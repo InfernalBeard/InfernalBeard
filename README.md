@@ -40,7 +40,6 @@ My ultimate goal is to become a software developer and use my skills and experie
 Java:
 
 Учусь в [Нетологии](https://netology.ru)
-
 <!--  
 
 ### Developer experience
