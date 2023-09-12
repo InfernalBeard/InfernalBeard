@@ -27,8 +27,10 @@ Java Developer
 - Intellij IDEA
 - Data Structures & Algorithms
 
-<!-- 
+<!--
+
 - Atlassian Confluence and Jira
+
  -->
  
 ### Goals
