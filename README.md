@@ -28,7 +28,6 @@ Java Developer
 - Data Structures & Algorithms
 
 <!--
-
 - Atlassian Confluence and Jira
 
  -->
