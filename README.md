@@ -29,7 +29,6 @@ Java Developer
 
 <!--
 - Atlassian Confluence and Jira
-
  -->
  
 ### Goals
