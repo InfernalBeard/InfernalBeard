@@ -41,6 +41,7 @@ Java:
 
 Учусь в [Нетологии](https://netology.ru)
 <!--  
+
 ### Developer experience
 
 ### 💻 Технологии и инструменты, которыми я пользуюсь в разработке:
@@ -59,7 +60,7 @@ Java:
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
  </div>
-
+ 
 ---
 ## Мои проекты:
 
