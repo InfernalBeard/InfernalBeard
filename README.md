@@ -79,15 +79,6 @@ Java:
 ### Contact me
 
 [<image alt="Telegram" width="40" hspace="3" src="https://github.com/alfa-prime/alfa-prime/blob/main/img/telegram.svg"/>](https://t.me/IamAndreyEgorov)
- <!--[<image alt="Telegram" width="40" hspace="3" src="https://www.svgrepo.com/show/484995/email-part-2.svg"/>](mailto:aiegorovceo@yandex.ru)
-### Socials
 
-<p align="left">
-	<a href="https://www.linkedin.com/in/thisplace" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
- -->
 ### :fire: Моя статистика :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=InfernalBeard&theme=highcontrast)](https://git.io/streak-stats)
- 
- <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfernalBeard&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- -->
