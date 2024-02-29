@@ -49,20 +49,6 @@ Java:
   <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://www.thymeleaf.org/images/thymeleaf.png" title="Thymeleaf" alt="thymeleaf" width="40" height="40"/>&nbsp;
  </div>
- 
----
-## Мои сертификаты:
-* [Диплом о профессиональной переподготовке]
-* [Основы Java]
-* [Java Core]
-* [Алгоритмы]
-* [Git]
-* [Шаблоны проектирования]
-* [Многопоточное и функциональное программирование])
-* [Web, Spring, Spring MVC]
-* [Spring Boot, deployment и инфраструктура]
-* [Cвидетельство об обучении в Нетологии]
- -->
 
 ### Contact me
 
