@@ -23,14 +23,14 @@ Java Developer
 ### Goals
 
 My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions.
-
+<!--
 ### Education
 
 Java:
 
 Учусь в [Нетологии](https://netology.ru)
 
-<!--  
+  
 ### Developer experience
 
 ### 💻 Технологии и инструменты, которыми я пользуюсь в разработке:
