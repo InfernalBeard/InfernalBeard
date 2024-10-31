@@ -19,11 +19,12 @@ Java Developer
 - Refactoring code
 - Intellij IDEA
 - Data Structures & Algorithms
- 
+
+<!-- 
 ### Goals
 
 My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions.
-<!--
+
 ### Education
 
 Java:
