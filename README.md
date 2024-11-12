@@ -11,7 +11,6 @@ Java Developer
 - JSON and REST API
 - Spring Framework
 - Apache Maven
-- Git and GitHub
 - SQL
 - Linux
 - Docker
@@ -19,6 +18,8 @@ Java Developer
 - Refactoring code
 - Intellij IDEA
 - Data Structures & Algorithms
+- Git and GitHub
+- Jira/Kaiten
 
 <!-- 
 ### Goals
